@@ -1,22 +1,27 @@
 div{
     border-style: solid;
     border-width: 5px;
-    border-color: lightgray;
+    border-color: greenyellow;
     padding: 30px;   
 }
 
 .container{          
-  border-color: gray;   
+  border-color: greenyellow;   
 }
 
 .row{            
-    border-color: silver;
+    border-color: greenyellow;
 }
 
 .list-group-item{
     border: 0;
-    margin-top: 25px;
-    margin-bottom: 25px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     broder-top: 10px;
     border-bottom: 10px;
+    
+}
+
+body{
+    background-color: greenyellow;
 }
